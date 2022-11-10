@@ -4,10 +4,10 @@
        <table style="table-layout: auto;">
            <tr>
                 <td>
-                  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaovitron999&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+                  <img style="vertical-align: bottom; display:block; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=Joaovitron999&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
                 </td>
                <td>
-                  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitron999&layout=compact&langs_count=10&theme=gotham"/>
+                  <img style="vertical-align: bottom; display:block; object-fit: cover;" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovitron999&layout=compact&theme=gotham"/>
                </td>     
           </tr>
           </div>
